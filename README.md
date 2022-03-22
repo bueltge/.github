@@ -1,5 +1,5 @@
 # bueltge/.github
-A collection of my GitHub health files, like Bug Report and Pull Request.
+A collection of [my GitHub](https://github.com/bueltge/) health files, like Bug Report and Pull Request.
 
 ## Welcome
 This repository store the health files for the @bueltge account on GitHub to get a default template for several processes.
